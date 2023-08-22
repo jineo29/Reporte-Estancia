@@ -1,0 +1,46 @@
+JESUS DAVID RUIZ GARCIA    09 DE AGOSTO DEL 2023
+
+
+el dia de hoy realice limpieza del codigo de la api, junto con la validacion de datos para que cuando se envien a la base de datos no tengan errores al mandarlo, para poder comprobar que lo antes echo funcionara cree un pequeño formulario para poder hacer test, de igual manera estoy imprementado variables de entorno para guardar las credenciales de la db para evitar vulneabilidades
+
+
+
+
+
+JESUS DAVID RUIZ GARCIA   14 DE AGOSTO DE 2023
+
+El dia de hoy realice correcion de errores, y pruebas al codigo para podeer hacer que tenga un rendimiento optimo para cuando se ponga en manera de produccion, se termino la parte de la validacion de Nombre, Telefono y Correo.
+
+
+
+JESUS DAVID RUIZ GARCIA  	15/08/23
+
+El dia de hoy impremente a la nueva vista de la LandingPage los datos para poder hacer 
+las inserciones a la base de datos, los cuales daban algunos errores los cuales fueron corregidos, añadi nuevas notificaciones para cuando se agregue un nuevo usuario y como para mande algun error.
+
+
+
+
+
+JESUS DAVID RUIZ GARCIA  	16/08/23
+
+El dia de hoy termine de imprementar la validacion del correo para que no exista mas de 1 una persona con el mismo correo,
+se volvio a actualizar la vista del frond añadiedo lo antes avanzadoo
+
+
+
+JESUS DAVID RUIZ GARCIA  	17/08/23
+
+El dia de hoy realice optimizacion de funciones del codigo, de igual manera estuve haciendo pruebas para poder hacer el despliegue de la API como el frond, los cuales salieron con un buen exito, las pruebas se realizaron de manera local, como en los servicos de aws ec2 
+
+
+
+JESUS DAVID RUIZ GARCIA  	18/08/23
+
+El dia de hoy hice correccion de errores de parte del frond y del back para poder hacer el despligue del proyecto ya terminado
+
+
+
+JESUS DAVID RUIZ GARCIA       	21/08/23
+El dia de hoy estuve terminando de corregir unos pequeños errores que se presentaban ala hora de validar el correo, y por ultimo agregue un alert que muestre cuando la api este  detenida 
+
