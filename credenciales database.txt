@@ -1,0 +1,24 @@
+CREATE USER 'username'@'host' IDENTIFIED WITH authentication_plugin BY 'password';
+
+CREATE DATABASE cafedb;
+
+-- Usar la base de datos
+USE cafedb;
+
+-- Crear la tabla usuarios
+CREATE TABLE usuarios (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    nombre VARCHAR(45),
+    telefono VARCHAR(30),
+    correo VARCHAR(30)
+);
+
+
+
+
+usuario db
+
+villo_ryc
+
+
+cereza2905
