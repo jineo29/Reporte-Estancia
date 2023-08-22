@@ -44,3 +44,9 @@ El dia de hoy hice correccion de errores de parte del frond y del back para pode
 JESUS DAVID RUIZ GARCIA       	21/08/23
 El dia de hoy estuve terminando de corregir unos pequeños errores que se presentaban ala hora de validar el correo, y por ultimo agregue un alert que muestre cuando la api este  detenida 
 
+
+
+JESUS DAVID RUIZ GARCIA       	22/08/23
+
+El dia de hoy finalicé la tarea de corregir varios errores en la API que estaban afectando la comunicación con el front-end de la página de inicio (Landing Page). Como parte de este proceso, también realicé una optimización en el código de la API, asegurándome de que esté limpio y bien estructurado para prevenir posibles contratiempos en el futuro.
+Con el propósito de enfrentar la cuestión del alto volumen de solicitudes procedentes de una misma dirección IP, incorporé un sistema de límite de frecuencia (rate limit).Una vez se hayan efectuado 15 solicitudes, se establecerá un período de espera de 20 minutos antes de permitir nuevas peticiones. Esta medida tendrá un impacto significativo al evitar potenciales sobrecargas en el servidor, asegurando así un funcionamiento estable y fluido de la API.
